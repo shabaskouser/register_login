@@ -1,4 +1,4 @@
-<p> This is two panel 
+<p> This is two panel <br>
     1.admin
     2.user
     admin can login and see the users and block the users
