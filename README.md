@@ -1,3 +1,11 @@
+<p> This is two panel 
+    1.admin
+    2.user
+    admin can login and see the users and block the users
+    user can register and login into account then he change his profile or update profile
+    password reset
+    </p>
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
